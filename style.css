@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+    background-color: black;
+     
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.content{
+    width: 100px;
+    height: 300px;
+    border: 1px solid white;
+    margin: 150px auto;
+}
+#red,#yellow,#green{
+    padding: 45px;
+    border-radius: 100%;
+    margin: 5px;
+    border: 1px solid white;
+}
+
+.btn{
+    background-color: rgb(33, 226, 15);
+    margin: 10px;
+    padding: 10px;
+}
+#sec{
+    background-color: chartreuse;
+}
